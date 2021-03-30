@@ -766,4 +766,4 @@ elif (islem==2):
     print("\n" + Fore.GREEN + "Toplam:" + Fore.YELLOW + " 364 Adet Tool İnecektir!")
 
 else:
-	print("\nHatalı Karakter Tuşladınız...")
+    print("\nHatalı Karakter Tuşladınız...")
