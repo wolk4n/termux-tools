@@ -52,7 +52,7 @@ if ( islem==1 ):
     	os.system("git clone https://github.com/ShuBhamg0sain/rootkalilinux-termux.git")
     	os.system("git clone https://github.com/ShuBhamg0sain/rootubantu-termux.git")
     	os.system("git clone https://github.com/ShuBhamg0sain/termux_Arch.git")
-		os.system("git clone https://github.com/govolution/avet.git")
+	os.system("git clone https://github.com/govolution/avet.git")
     	os.system("git clone https://github.com/ShuBhamg0sain/Facebook-kit.git")
     	os.system("git clone https://github.com/ShuBhamg0sain/Fbbrute.git")
     	os.system("git clone https://github.com/thewhiteh4t/seeker.git")
