@@ -7,7 +7,6 @@ import colorama
 
 from colorama import Fore, Back, Style
 
-os.system("apt-get install figlet")
 os.system("clear")
 
 
