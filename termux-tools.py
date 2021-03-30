@@ -1,8 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-import webbrowser
 import os 
+import colorama
+
+from colorama import Fore, Back, Style
 
 os.system("clear")
 
