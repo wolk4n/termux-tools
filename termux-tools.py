@@ -731,7 +731,7 @@ elif (islem==2):
     print(yesil + "Breacher" + kirmizi + " -----> " + beyaz + "https://github.com/s0md3v/Breacher")
     print(yesil + "Hash-Buster" + kirmizi + " -----> " + beyaz + "https://github.com/s0md3v/Hash-Buster")
     print(yesil + "ReconDog" + kirmizi + " -----> " + beyaz + "https://github.com/s0md3v/ReconDog")
-    print(yesil + "sqlmate" + kkirmizi+ " -----> " + beyaz + "https://github.com/s0md3v/sqlmate")
+    print(yesil + "sqlmate" + kirmizi+ " -----> " + beyaz + "https://github.com/s0md3v/sqlmate")
     print(yesil + "Striker" + kirmizi + " -----> " + beyaz + "https://github.com/s0md3v/Striker")
     print(yesil + "XSStrike" + kirmizi + " -----> " + beyaz + "https://github.com/s0md3v/XSStrike")
     print(yesil + "EvilURL" + kirmizi + " -----> " + beyaz + "https://github.com/UndeadSec/EvilURL")
