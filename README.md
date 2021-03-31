@@ -21,7 +21,7 @@ Yazarak çalıştırabilirsiniz ve karşınıza gelen başlıklardaki numaralar�
 
 **Arayüz**
 
-<img src="https://github.com/wolkann/termux-tools/blob/main/resimler/arayüz.jpg" width="400" height="500">
+<img src="https://github.com/wolkann/termux-tools/blob/main/resimler/arayüz.jpg" width="500" height="300">
 
 
 **Programları İndir**
