@@ -695,7 +695,7 @@ elif (islem==2):
     print(yesil + "HT-WPS-Breaker" + kirmizi + " -----> " + beyaz + "https://github.com/SilentGhostX/HT-WPS-Breaker")
     print(yesil + "PwnSTAR" + kirmizi + " -----> " + beyaz + "https://github.com/SilverFoxx/PwnSTAR")
     print(yesil + "termux-wordpresscan" + kirmizi + " -----> " + beyaz + "https://github.com/silverhat007/termux-wordpresscan")
-    print(yesil + "bulk_extractor" + kirmizi + " -----> " +beyazE + "https://github.com/simsong/bulk_extractor")
+    print(yesil + "bulk_extractor" + kirmizi + " -----> " +beyaz + "https://github.com/simsong/bulk_extractor")
     print(yesil + "uidsploit" + kirmizi + " -----> " + beyaz + "https://github.com/siruidops/uidsploit")
     print(yesil + "fuckshitup" + kirmizi + " -----> " + beyaz + "https://github.com/Smaash/fuckshitup")
     print(yesil + "snitch" + kirmizi + " -----> " + beyaz + "https://github.com/Smaash/snitch")
