@@ -17,9 +17,10 @@ print(kirmizi + """
    | | ___   ___ | |___ 
    | |/ _ \ / _ \| / __|
    | | (_) | (_) | \___\
+   
    |_|\___/ \___/|_|___/ """)    
 
-print(yesil + """ # Coded By wolkan """)
+print(yesil + """    # Coded By wolkan """)
 
 
 print(beyaz + """
