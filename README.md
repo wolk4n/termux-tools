@@ -14,3 +14,5 @@ Bu program sizlere siber güvenlikte en çok kullanılan toolları tek tuş ile 
 Yazarak çalıştırabilirsiniz ve karşınıza gelen başlıklardaki numaraları yazarak işlemleri gerçekleştirebilirsiniz. 
 
 ### Program İçi Görüntüler
+
+![arayüz](https://www.resimyukle.org/i/7pqzB)
