@@ -24,11 +24,11 @@ Yazarak çalıştırabilirsiniz ve karşınıza gelen başlıklardaki numaralar�
 <img src="https://github.com/wolkann/termux-tools/blob/main/aray%C3%BCz.jpg" width="500" height="500">
 
 
-**1 Numaralı Başlık**
+**Programları İndir**
 
 <img src="https://github.com/wolkann/termux-tools/blob/main/1.jpeg" width="500" height="500">
 
 
-**2 Numaralı Başlık**
+**İndirilecek Olan Programlar**
 
 <img src="https://github.com/wolkann/termux-tools/blob/main/2.jpeg" width="500" height="500">
