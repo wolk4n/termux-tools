@@ -13,7 +13,7 @@ Bu program sizlere siber güvenlikte en çok kullanılan toolları tek tuş ile 
 
 `python termux-tools.py`
 
-Yazarak çalıştırabilirsiniz ve karşınıza gelen başlıklardaki numaraları yazarak işlemleri gerçekleştirebilirsiniz. Toplamda 354 program indiril
+Yazarak çalıştırabilirsiniz ve karşınıza gelen başlıklardaki numaraları yazarak işlemleri gerçekleştirebilirsiniz. Toplamda 354 program indirilecektir.
 
 ---
 
