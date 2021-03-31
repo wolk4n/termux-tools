@@ -744,7 +744,7 @@ elif (islem==2):
     print(yesil + "zaproxy" + kirmizi + " -----> " + beyaz + "https://github.com/zaproxy/zaproxy")
     print(yesil + "koadic" + kirmizi + " -----> " + beyaz + "https://github.com/zerosum0x0/koadic")
     print(yesil + "webpwn3r" + kirmizi + " -----> " + beyaz + "https://github.com/zigoo0/webpwn3r")
-    print("\n" + yesil + "Toplam:" + sari + " 364 Adet Tool İnecektir!" + beyaz)
+    print("\n" + yesil + "Toplam:" + sari + " 354 Adet Tool İnecektir!" + beyaz)
 
 else:
 	print("\nHatalı Karakter Tuşladınız...")
