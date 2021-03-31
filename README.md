@@ -21,14 +21,14 @@ Yazarak çalıştırabilirsiniz ve karşınıza gelen başlıklardaki numaralar�
 
 **Arayüz**
 
-<img src="https://github.com/wolkann/termux-tools/blob/main/resimler/arayüz.jpg" width="500" height="300">
+<img src="https://github.com/wolkann/termux-tools/blob/main/imgs/arayuz.jpeg" width="500" height="300">
 
 
 **Programları İndir**
 
-<img src="https://github.com/wolkann/termux-tools/blob/main/resimler/programlar%C4%B1_indirme.jpeg" width="500" height="500">
+<img src="https://github.com/wolkann/termux-tools/blob/main/imgs/indirilecek_olan_programlar.jpeg" width="500" height="500">
 
 
 **İndirilecek Olan Programlar**
 
-<img src="https://github.com/wolkann/termux-tools/blob/main/resimler/indirilecek_olan_programlar.jpeg" width="500" height="500">
+<img src="https://github.com/wolkann/termux-tools/blob/main/imgs/programlar%C4%B1_indirme.jpeg" width="500" height="500">
