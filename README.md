@@ -15,4 +15,4 @@ Yazarak çalıştırabilirsiniz ve karşınıza gelen başlıklardaki numaralar�
 
 ### Program İçi Görüntüler
 
-![arayüz](https://www.resimyukle.org/i/7pqzB)
+![_](https://github.com/wolkann/termux-tools/blob/main/aray%C3%BCz.jpg)
