@@ -3,7 +3,7 @@ Bu program sizlere siber güvenlikte en çok kullanılan toolları tek tuş ile 
 
 ## Program Nasıl İndirilir?
 
-git clone https://github.com/wolkann/termux-tools
+`git clone https://github.com/wolkann/termux-tools`
 
 `cd termux-tools`
 
