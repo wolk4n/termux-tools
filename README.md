@@ -15,6 +15,10 @@ Yazarak çalıştırabilirsiniz ve karşınıza gelen başlıklardaki numaralar�
 
 ### Program İçi Görüntüler
 **Arayüz**
+<img src="https://github.com/wolkann/termux-tools/blob/main/aray%C3%BCz.jpg" width="500" height="500">
 
+**1 Numaralı Başlık**
+<img src="https://github.com/wolkann/termux-tools/blob/main/1.jpeg" width="500" height="500">
 
-<img src="https://github.com/wolkann/termux-tools/blob/main/aray%C3%BCz.jpg" width="500" height="500" >
+**2 Numaralı Başlık**
+<img src="https://github.com/wolkann/termux-tools/blob/main/2.jpeg" width="500" height="500">
