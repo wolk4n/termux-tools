@@ -12,22 +12,18 @@ sari = '\033[93m'
 
 
 print(kirmizi + """
-                                  _______          _     
-                                 |__   __|        | |    
-                                    | | ___   ___ | |___ 
-                                    | |/ _ \ / _ \| / __|
-                                    | | (_) | (_) | \___\
-	  
-	                            |_|\___/ \___/|_|___/ """)    
+ _______          _     
+|__   __|        | |    
+   | | ___   ___ | |___ 
+   | |/ _ \ / _ \| / __|
+   | | (_) | (_) | \___\
+   |_|\___/ \___/|_|___/ """)    
 
-print(yesil + """
-                                     # Coded By wolkan """)
+print(yesil + """ # Coded By wolkan """)
 
 
 print(beyaz + """
-Bu program sizlere siber güvenlikte en çok kullanılan toolları tek tuş ile indirmenizi sağlar. 
-Program süresince indirilen programları kötü amaçlı kullanmayınız. Aksi takdirde kullanılması 
-toplumsal ve hukuki sorumluluk doğurabilir. Olası her durumda mesuliyet ilgili kişiye aittir.""")
+Bu program sizlere siber güvenlikte en çok kullanılan toolları tek tuş ile indirmenizi sağlar. Program süresince indirilen programları kötü amaçlı kullanmayınız. Aksi takdirde kullanılması toplumsal ve hukuki sorumluluk doğurabilir. Olası her durumda mesuliyet ilgili kişiye aittir.""")
 
 print(kirmizi + """\n-----
     |
