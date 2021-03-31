@@ -35,4 +35,6 @@ Yazarak çalıştırabilirsiniz ve karşınıza gelen başlıklardaki numaralar�
 
 Eğer tüm programları indirmek istemiyorsanız 2. seçeneği kullanıp indirilecek olan programların isimlerini görebilir ve github linklerini kopyalayarak tek tek indirebilirsiniz.
 
-<img src="https://github.com/wolkann/termux-tools/blob/main/imgs/indirme_sonras%C4%B1.jpg" width="500" height="100">
+**Toolları İndirdikten Sonra**
+
+<img src="https://github.com/wolkann/termux-tools/blob/main/imgs/indirme_sonras%C4%B1.jpg" width="1000" height="1000">
